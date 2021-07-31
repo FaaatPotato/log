@@ -1,0 +1,4 @@
+*Changed URL's
+
+Type .scriptmanager reload
+Script has been updated! 31.07.2021
