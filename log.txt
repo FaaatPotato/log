@@ -1,4 +1,6 @@
-*Changed URL's
+*Added 2 MatrixPremium nofall modes
+*Updated speed 1.5% faster idk
+*Removed not working stuff
 
 Type .scriptmanager reload
 Script has been updated! 31.07.2021
