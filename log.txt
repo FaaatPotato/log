@@ -1,6 +1,9 @@
-*Added 2 MatrixPremium nofall modes
-*Updated speed 1.5% faster idk
-*Removed not working stuff
+*Added new JartexL mode (Report)
+*Added sum fancy stuff to JartexManager
+*Added sum stuff for me
+*Updated LiquiqWalk
+
+//Need to fix AutoPhase dont use!
 
 Type .scriptmanager reload
 Script has been updated! 31.07.2021
