@@ -1,5 +1,7 @@
 *Added new Teleport!
 *Added some not working infinity fly (kicks)
+*Fixed Teleport issue found by:
+-> ok but who#8357
 
 //Need to fix AutoPhase dont use!
 
