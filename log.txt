@@ -1,5 +1,5 @@
-*Recoed Boatfly + more features
-*Added a WaterLongJump to LongJumpz
+*Added new Teleport!
+*Added some not working infinity fly (kicks)
 
 //Need to fix AutoPhase dont use!
 
