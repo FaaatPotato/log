@@ -4,4 +4,4 @@
 //Need to fix AutoPhase dont use!
 
 Type .scriptmanager reload
-Script has been updated! 19.09.2021
+Script has been updated! 01.10.2021
